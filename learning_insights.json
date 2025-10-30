@@ -1,0 +1,59 @@
+{
+  "insight_0_9871": {
+    "insight_id": "insight_0_9871",
+    "category": "performance",
+    "description": "Add intelligent caching to frequently called functions",
+    "applicability": [
+      "ai_tool",
+      "web_app",
+      "api"
+    ],
+    "priority": 8,
+    "discovered_at": "2025-10-29T23:58:29.082265",
+    "applied_to": [],
+    "effectiveness": 0.0
+  },
+  "insight_1_6173": {
+    "insight_id": "insight_1_6173",
+    "category": "security",
+    "description": "Implement comprehensive input validation and sanitization",
+    "applicability": [
+      "web_app",
+      "api",
+      "database"
+    ],
+    "priority": 9,
+    "discovered_at": "2025-10-29T23:58:29.096716",
+    "applied_to": [],
+    "effectiveness": 0.0
+  },
+  "insight_2_7922": {
+    "insight_id": "insight_2_7922",
+    "category": "features",
+    "description": "Add real-time monitoring and analytics dashboard",
+    "applicability": [
+      "web_app",
+      "ai_tool",
+      "game_project"
+    ],
+    "priority": 7,
+    "discovered_at": "2025-10-29T23:58:29.104791",
+    "applied_to": [],
+    "effectiveness": 0.0
+  },
+  "insight_3_8457": {
+    "insight_id": "insight_3_8457",
+    "category": "code_quality",
+    "description": "Implement comprehensive error handling with detailed logging",
+    "applicability": [
+      "ai_tool",
+      "web_app",
+      "api",
+      "game_project"
+    ],
+    "priority": 8,
+    "discovered_at": "2025-10-29T23:58:29.113372",
+    "applied_to": [],
+    "effectiveness": 0.0
+  }
+}
